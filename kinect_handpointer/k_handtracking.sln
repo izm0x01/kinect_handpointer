@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "k_handtracking", "Assembly-CSharp-firstpass.csproj", "{EB883214-D25B-8FFB-D2B3-9B79345462B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "k_handtracking", "Assembly-CSharp.csproj", "{1335C302-8486-0E07-A327-66CD5E8C8017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "k_handtracking", "Assembly-CSharp-Editor-firstpass.csproj", "{9056AB60-24F4-4C24-50D3-5A115735DFE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB883214-D25B-8FFB-D2B3-9B79345462B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB883214-D25B-8FFB-D2B3-9B79345462B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB883214-D25B-8FFB-D2B3-9B79345462B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB883214-D25B-8FFB-D2B3-9B79345462B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1335C302-8486-0E07-A327-66CD5E8C8017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1335C302-8486-0E07-A327-66CD5E8C8017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1335C302-8486-0E07-A327-66CD5E8C8017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1335C302-8486-0E07-A327-66CD5E8C8017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9056AB60-24F4-4C24-50D3-5A115735DFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9056AB60-24F4-4C24-50D3-5A115735DFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9056AB60-24F4-4C24-50D3-5A115735DFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9056AB60-24F4-4C24-50D3-5A115735DFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
